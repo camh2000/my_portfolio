@@ -16,10 +16,6 @@ My Blog Portfolio is a fully responsive website <br />Responsive for all devices
 
 <br />
 
-### Screeshots
-
-![My Blog & Portfolio](./assets/images/protfolio_screenshot.jpg "Desktop Mode")
-
 ### 🛠 My Skills
 
 - HTML
