@@ -1141,3 +1141,20 @@ footer .wrapper {
     margin-bottom: 0.3rem;
   }
 }
+
+  /**
+  * ABOUT SECTION
+  */
+  
+  .about-section {
+    background-color: #f4f4f4; /* Light grey background */
+    padding: 20px 0; /* Add padding for better spacing */
+  }
+  
+  .about-section p {
+    font-size: calc(1rem + 4pt); /* Increase font size by 4 points */
+    font-weight: bold; /* Make the text bold */
+    color: #333; /* Optional: Sets the text color to dark grey for better readability */
+    text-align: center; /* Centers the text */
+  }
+  
